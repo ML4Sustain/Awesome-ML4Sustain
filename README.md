@@ -1,2 +1,2 @@
 # Awesome-ML4Sustain
-A Collection of Awesome Machine Learning for Sustainable Development
+A Collection of Awesome Machine Learning for Sustainable Development Goals
